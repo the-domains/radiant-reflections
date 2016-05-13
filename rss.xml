@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Radiant Reflections]]></title>
         <description><![CDATA[Radiant Reflections]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/radiant-reflections/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 20:00:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 20:00:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/radiant-reflections/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d53722-ff58-41cc-afe1-de654656f82b.jpg">]]></description>
+            <link>https://thegrid.ai/radiant-reflections/dadc7178-2abe-48b5-8d16-686e289b33e9/index.html</link>
+            <guid isPermaLink="false">dadc7178-2abe-48b5-8d16-686e289b33e9</guid>
+            <pubDate>Fri, 13 May 2016 20:00:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76dd1237-016a-4a7a-9b3b-c5f68f22a461.jpg">]]></description>
-            <link>undefinedbfad1b9c-ac5b-475d-a906-c2676acc0d8e/index.html</link>
+            <link>https://thegrid.ai/radiant-reflections/bfad1b9c-ac5b-475d-a906-c2676acc0d8e/index.html</link>
             <guid isPermaLink="false">bfad1b9c-ac5b-475d-a906-c2676acc0d8e</guid>
             <pubDate>Fri, 13 May 2016 19:59:59 GMT</pubDate>
         </item>
